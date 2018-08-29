@@ -1,0 +1,5 @@
+module Clibgit [system] {
+  umbrella header "Clibgit.h"
+  link "libgit2"
+  export *
+}
